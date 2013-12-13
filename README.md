@@ -1,0 +1,3 @@
+Just hacked together on a weekend to learn a bit about Qt way back in 2000. Still compiles though and runs fine on my Macbook ;).
+Written much larger and cleaner Qt apps later on, like MPL a programming environment but that's all proprietary or copyrighted unfortunately...
+
