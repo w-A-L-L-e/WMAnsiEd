@@ -1,0 +1,86 @@
+Log for qt3to4 on Wed Apr 18 15:59:04 2012. Number of log entries: 7
+In file /Users/wschrep/cppWork/WMAnsiEd/canvas.cpp at line 23 column 18: qtoolbar.h -> q3toolbar.h
+In file /Users/wschrep/cppWork/WMAnsiEd/canvas.cpp at line 30 column 21: qfiledialog.h -> q3filedialog.h
+In file /Users/wschrep/cppWork/WMAnsiEd/canvas.cpp at line 33 column 18: qstrlist.h -> q3strlist.h
+In file /Users/wschrep/cppWork/WMAnsiEd/canvas.cpp at line 34 column 20: qpopupmenu.h -> q3popupmenu.h
+In file /Users/wschrep/cppWork/WMAnsiEd/canvas.cpp at line 35 column 18: qintdict.h -> q3intdict.h
+In file /Users/wschrep/cppWork/WMAnsiEd/canvas.cpp at line 47 column 30: QWidget -> Qt
+In file /Users/wschrep/cppWork/WMAnsiEd/canvas.cpp: Added the following include directives:
+	#include <QPaintEvent> 	#include <QResizeEvent> 	#include <QMouseEvent> 
+
+Log for qt3to4 on Wed Apr 18 15:59:31 2012. Number of log entries: 71
+No changes made to file /Users/wschrep/cppWork/WMAnsiEd/canvas.cpp
+No changes made to file /Users/wschrep/cppWork/WMAnsiEd/IBMFont.cpp
+No changes made to file /Users/wschrep/cppWork/WMAnsiEd/main.cpp
+No changes made to file /Users/wschrep/cppWork/WMAnsiEd/palette.cpp
+No changes made to file /Users/wschrep/cppWork/WMAnsiEd/text.cpp
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 25 column 18: qtoolbar.h -> q3toolbar.h
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 31 column 21: qfiledialog.h -> q3filedialog.h
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 34 column 18: qstrlist.h -> q3strlist.h
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 35 column 20: qpopupmenu.h -> q3popupmenu.h
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 36 column 18: qintdict.h -> q3intdict.h
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 55 column 17: QMainWindow -> Q3MainWindow
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 59 column 14: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 59 column 37: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 64 column 14: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 64 column 37: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 69 column 14: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 69 column 37: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 71 column 44: CTRL -> Qt::CTRL
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 71 column 50: Key_O -> Qt::Key_O
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 72 column 44: CTRL -> Qt::CTRL
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 72 column 50: Key_S -> Qt::Key_S
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 73 column 65: CTRL -> Qt::CTRL
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 73 column 71: Key_Q -> Qt::Key_Q
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 75 column 14: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 75 column 37: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 77 column 66: CTRL -> Qt::CTRL
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 77 column 72: Key_L -> Qt::Key_L
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 78 column 68: CTRL -> Qt::CTRL
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 78 column 74: Key_R -> Qt::Key_R
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 79 column 62: CTRL -> Qt::CTRL
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 79 column 68: Key_U -> Qt::Key_U
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 80 column 66: CTRL -> Qt::CTRL
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 80 column 72: Key_D -> Qt::Key_D
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 81 column 63: CTRL -> Qt::CTRL
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 81 column 69: Key_H -> Qt::Key_H
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 82 column 63: CTRL -> Qt::CTRL
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 82 column 69: Key_V -> Qt::Key_V
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 85 column 14: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 85 column 37: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 87 column 70: CTRL -> Qt::CTRL
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 87 column 76: Key_X -> Qt::Key_X
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 88 column 42: CTRL -> Qt::CTRL
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 88 column 48: Key_M -> Qt::Key_M
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 91 column 14: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 91 column 41: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 102 column 14: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 102 column 40: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 108 column 15: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 108 column 38: QPopupMenu -> Q3PopupMenu
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 110 column 64: CTRL -> Qt::CTRL
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 110 column 70: Key_A -> Qt::Key_A
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 115 column 12: QToolBar -> Q3ToolBar
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 115 column 34: QToolBar -> Q3ToolBar
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 144 column 37: AlignCenter -> Qt::AlignCenter
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 144 column 50: AlignVCenter -> Qt::AlignVCenter
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 223 column 34: QFileDialog -> Q3FileDialog
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 234 column 34: QFileDialog -> Q3FileDialog
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 245 column 34: QFileDialog -> Q3FileDialog
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp at line 257 column 34: QFileDialog -> Q3FileDialog
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.cpp: Added the following include directives:
+	#include <QKeyEvent> 
+In file /Users/wschrep/cppWork/WMAnsiEd/canvas.h at line 26 column 21: qpointarray.h -> q3pointarray.h
+In file /Users/wschrep/cppWork/WMAnsiEd/canvas.h: Added the following include directives:
+	#include <QResizeEvent> 	#include <QMouseEvent> 	#include <QPaintEvent> 
+No changes made to file /Users/wschrep/cppWork/WMAnsiEd/font.h
+No changes made to file /Users/wschrep/cppWork/WMAnsiEd/IBMFont.h
+No changes made to file /Users/wschrep/cppWork/WMAnsiEd/palette.h
+No changes made to file /Users/wschrep/cppWork/WMAnsiEd/text.h
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.h at line 21 column 21: qmainwindow.h -> q3mainwindow.h
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.h at line 27 column 21: qpointarray.h -> q3pointarray.h
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.h at line 42 column 35: QMainWindow -> Q3MainWindow
+In file /Users/wschrep/cppWork/WMAnsiEd/wmansied.h: Added the following include directives:
+	#include <QResizeEvent> 	#include <QKeyEvent> 
+In file WMAnsiEd.pro: Added entry QT +=  
+
